@@ -9,7 +9,7 @@ Traducción oficial a Español Mexicano de phpBB 3.1.3 Casual Honorifics (TÚ)
 Para cualquier cambio a realizar, simplemente editar para realizar el cambio y "Pull Request".
 
 ## License
-[GNU General Public License v2](http://opensource.org/licenses/GPL-2.0)
+[The MIT License (MIT)](http://opensource.org/licenses/MIT)
 
 ## Autor
 cisco007 (Cisco)
